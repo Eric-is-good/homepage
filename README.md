@@ -10,4 +10,4 @@ https://github.com/happysnaker/Resume
 
 效果图
 
-![](images\show.jpg)
+![](https://github.com/Eric-is-good/homepage/blob/main/images/show.jpg)
